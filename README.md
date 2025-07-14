@@ -1,25 +1,22 @@
-# 🧘 WellnessJournal – Daily Wellness Tracker
+# 🧘 WellnessJournal – Daily Wellness Tracker (HTML/CSS Version)
 
-A self-care web app that lets users log their mood, water intake, and daily reflections. Great for building consistency and improving mental health.
+A clean, responsive self-care journal template built with **HTML** and **CSS only**. Designed to help users visualize logging their mood, water intake, and daily reflections.
 
-## 🌟 Features
+## 🌟 Features (Static HTML/CSS Only)
 
-- ✅ Log your **daily mood** using emoji sliders
-- 💧 Track **water intake** manually (e.g., 8 glasses/day)
-- 📝 Write and save **daily notes or reflections**
-- 📊 Visualize entries using JavaScript charts
-- 💾 Store journal entries using a Python (Flask) backend
+- ✅ Mood logging interface using emoji sliders *(visual only)*
+- 💧 Water intake tracker layout *(non-interactive for now)*
+- 📝 Daily reflection note section *(text area placeholder)*
+- 📊 Placeholder chart area *(for future Chart.js integration)*
+- 🎨 Fully responsive and mobile-friendly design
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Frontend Only)
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python (Flask)
-- **Database:** JSON or SQLite (your choice)
-- **Charting:** Chart.js
+- **HTML5**
+- **CSS3 (Flexbox & Media Queries)**
+
 
 ## 🙌 Contributor
 
-
 [SuryaSomeswar](https://github.com/SuryaSomeswar)
-
 
